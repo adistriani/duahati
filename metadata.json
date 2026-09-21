@@ -1,0 +1,6 @@
+{
+  "name": "Dua Hati",
+  "description": "Dua Hati — Game obrolan interaktif dan kartu cerita mendalam untuk pasangan yang ingin saling mengenal lebih dekat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
